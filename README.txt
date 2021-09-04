@@ -1,0 +1,1 @@
+before running the application please type php artisan storage:link in your console :)
